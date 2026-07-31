@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linonie-2.github.io/wangyebanxin/sitemap.xml
